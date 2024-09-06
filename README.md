@@ -23,7 +23,7 @@ Lưu ý: Đảm bảo rằng bạn đã cài đặt WireGuard trước khi chạ
 Tạo file script 
    - **Lệnh**:
      ```bash
-     wget -qO- https://raw.githubusercontent.com/quangtrangvn/WireGuard/main/create-multiple-clients.sh -O create-multiple-clients.sh
+     wget -qO- https://github.com/khongtan15/WireGuard1/blob/main/create-multiple-clients.sh -O create-multiple-clients.sh
      ```
    - **Cấp quyền thực thi cho script:**:
      ```bash
