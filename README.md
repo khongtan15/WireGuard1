@@ -12,7 +12,7 @@
      sudo apt-get install wget -y
      ```
      ```bash
-     wget -qO- https://raw.githubusercontent.com/quangtrangvn/WireGuard/main/wireguard-install.sh -O wireguard-install.sh
+     wget -qO- https://github.com/khongtan15/WireGuard1/blob/main/wireguard-install.sh -O wireguard-install.sh
      ```
       ```bash
      sudo bash wireguard-install.sh
